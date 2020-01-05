@@ -35,8 +35,5 @@ Game Over
 
 
  
-Then Pick one of those and enjoy the game:
-| Rock | Paper | Scissors |
-| --- | --- | --- |
-
+Then Pick one of those and enjoy the game.
 # Enjoy
