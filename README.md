@@ -10,10 +10,7 @@ If the program asks you, "Would you like to play Rock, Paper, Scissors?"
 You have two options:
 - Type "Yes"
  - if you want to play the game!
-- Type "No"
- - If you want to quit the game!
- 
-```html
+ ```html
  Would you like to play Rock, Paper, Scissors?
 ```
 ```html
@@ -23,7 +20,9 @@ You have two options:
  What do you choose?
 ```
 
-```html
+- Type "No"
+ - If you want to quit the game!
+ ```html
  Would you like to play Rock, Paper, Scissors?
 ```
 ```html
@@ -32,8 +31,12 @@ no
 ```html
 Game Over
 ```
+
+
+
  
 Then Pick one of those and enjoy the game:
 | Rock | Paper | Scissors |
+| --- | --- | --- |
 
 # Enjoy
